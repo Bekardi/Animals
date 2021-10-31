@@ -20,6 +20,7 @@ public class Animals {
         Swan Mila = new Swan();
         Mila.flying();
        
+        System.out.println("Hello");
    
     }
     
