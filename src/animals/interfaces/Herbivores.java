@@ -9,5 +9,4 @@ package animals.interfaces;
  * @author milastolbetskaya
  */
 public interface Herbivores {
-    
-}
+   
